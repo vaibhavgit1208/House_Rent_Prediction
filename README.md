@@ -1,6 +1,3 @@
-Here’s a **beautiful, comprehensive, and professional README.md** for your GitHub project. You can simply copy and paste this into your repository's README file.
-
----
 
 # 🏠 House Rent Prediction Data Analysis Project 🇮🇳
 
